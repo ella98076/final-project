@@ -28,7 +28,8 @@ the list:
 3. window dimension 
 4. pull things into the application 
 5. Icon picture & application color
-6. Login & sign up page 
+6. AI inclusion
+7. Login & sign up page 
 
 resources: 
 TBD 
